@@ -1,6 +1,4 @@
 ## CRUD DE CLINICA
-Feito com o intuito de estudar e treinar sobre o crud basico. 
+Feito com o intuito de estudar e treinar para a prova. 
 
-Front by Rani.
-
-_(Sinceramente não tem muito haver com clinica kkkkkk)_
+        Front by Rani.
